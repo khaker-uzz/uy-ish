@@ -1,0 +1,117 @@
+.hover {
+    margin-top: 160px;
+
+    .hover__div {
+        width: 541px;
+        height: 640px;
+        background-image: url("../../img/rasm2.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        margin-top: 15px;
+    }
+
+    &__h2 {
+        color: #FFF;
+        font-family: "Jost";
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 48px;
+        letter-spacing: 2px;
+        margin-top: 273px;
+        display: inline-block;
+        margin-left: 137px;
+    }
+
+    &__text {
+        color: #FFF;
+        font-family: "Jost";
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        letter-spacing: 5px;
+        text-transform: uppercase;
+        margin-top: -10px;
+        margin-left: 172px;
+    }
+
+    .hover__item1 {
+        width: 541px;
+        height: 308px;
+        background-image: url("../img/rasm3.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        margin-bottom: 20px;
+        margin-left: -10px;
+    }
+
+    .hover__h2__1 {
+        color: #FFF;
+        text-align: center;
+        font-family: "Jost";
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 48px;
+        letter-spacing: 2px;
+        margin-top: 107px;
+        display: inline-block;
+        margin-left: 145px;
+    }
+
+    .hover__text1 {
+        color: #FFF;
+        font-family: "Jost";
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        letter-spacing: 5px;
+        text-transform: uppercase;
+        text-align: center;
+        margin-top: -20px;
+    }
+
+    .hover__item2 {
+        width: 541px;
+        height: 308px;
+        background-image: url("../../img/rasm4.png");
+        background-repeat: repeat;
+        background-size: contain;
+        margin-left: -10px;
+    }
+
+    .hover__h2__2 {
+        color: #FFF;
+        text-align: center;
+        font-family: "Jost";
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 48px;
+        letter-spacing: 2px;
+        display: inline-block;
+        margin-top: 107px;
+        margin-left: 145px;
+
+    }
+
+    .hover__text2 {
+        color: #FFF;
+        font-family: "Jost";
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        letter-spacing: 5px;
+        text-transform: uppercase;
+        text-align: center;
+        margin-top: -20px;
+    }
+
+    .hover__divv {
+        display: flex;
+    }
+
+}
